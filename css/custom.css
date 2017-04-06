@@ -2,6 +2,11 @@
 .nopadding{
   padding: 0px;
 }
+.box-custom{
+  margin:0px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+}
 .fa-color-custom{
   color: #ED104F;
 }
